@@ -1,1 +1,1 @@
-A simple webpage using HTML, CSS and Javascript.
+A simple website created using HTML, CSS and Javascript.
